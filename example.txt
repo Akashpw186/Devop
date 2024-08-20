@@ -2,6 +2,21 @@ class launch
 {
 void main()
 {
+<<<<<<< HEAD
   ?wjwkkw
 dddsdcsdsdbdhhhdfjjjkefkjef }
+=======
+  ?wjwkkwwwdjjqwq
+wdjdn
+ek23el32mee
+jdkjndkjjd
+dsdmslkmd
+qsldl,ddlq,
+qsdlq,d;l,
+em2leml2eme
+}
+qkqmw
+qqmqmqmww
+ }
+>>>>>>> 245b3591b0598b007e2ccf7d635455fe1b4d717b
 }
