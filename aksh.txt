@@ -19,7 +19,7 @@
         visibility: hidden;
         width: 100%;
       }
-
+ cccccccccccc
       [show-background-image] #backgroundImage {
         visibility: visible;
       }
