@@ -1,6 +1,1 @@
-class launch()
-{
-void main()
-{
-}
-}
+
